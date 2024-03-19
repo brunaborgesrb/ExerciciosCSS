@@ -1,0 +1,20 @@
+
+h1 {
+    background-color: #b63b1c;
+    text-align: center;
+    border: 2px solid green;
+    padding: 10px;
+    color: rgb(231, 231, 231);
+   }
+   
+
+td {
+    border: 2px solid rgb(15, 102, 22);
+   }
+
+body {
+    background-image: url("natureza.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }

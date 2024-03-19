@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+p {
+    text-decoration: underline;
+    font-family: Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
